@@ -1,0 +1,8 @@
+torch==2.8.0
+gymnasium[mujoco]
+ml-collections
+tensorboard 
+aim 
+scipy
+tensorboardX
+auto_LiRPA @ git+https://github.com/Verified-Intelligence/auto_LiRPA.git
