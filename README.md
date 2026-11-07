@@ -2,6 +2,15 @@
 
 Adversarial Reinforcement Learning
 
+Citation:
+```
+@article{andam2026robust,
+  title={Robust Policy Optimization via Adversarial Importance Sampling},
+  author={Andam, Amine and Bentahar, Jamal and Hedabou, Mustapha},
+  journal={arXiv preprint arXiv:2609.13044},
+  year={2026}
+}
+```
 # How to use
 
 We use `uv` as package manager. Visit [their webpage](https://docs.astral.sh/uv/) to install it.
